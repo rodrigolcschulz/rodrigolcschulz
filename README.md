@@ -14,7 +14,7 @@ NumPy Pandas Scikit Learn Seaborn
 AWS Google
 
 💻 Software and Tools
-Colab Git Jupyter Pycharm Power BI
+Colab Git Jupyter Power BI
 
 GitHub Status
 <!---
