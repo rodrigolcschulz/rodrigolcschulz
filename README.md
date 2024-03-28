@@ -16,7 +16,6 @@ AWS Google
 💻 Software and Tools
 Colab Git Jupyter Power BI
 
-GitHub Status
 <!---
 rodrigolcschulz/rodrigolcschulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
