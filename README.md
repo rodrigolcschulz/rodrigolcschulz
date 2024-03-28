@@ -1,20 +1,20 @@
 - 👋 Hi, I’m Rodrigo Schulz 
 - 🧠 I’m interested in healthcare and machine learning in general 
 - 📘 I’m currently learning data science at UFMS and finished at Ebac 
-- 🔬 I’m looking to collaborate on research, I am very interested in projects in Germany, areas of health and ecology 
+- 🔬 I’m interested in projects in areas of health, finance, marketing, sales and engineering. 
 - 💼 How to reach me @rodrigolcschulz in instagram
 
 💻 languages:
-Python SQL
+Python SQL DAX
 
-📚 Frameworks and libs
+📚 Frameworks and libs: 
 NumPy Pandas Scikit Learn Seaborn
 
-🗄️ Databases and Cloud Hosting
+🗄️ Databases and Cloud Hosting:
 AWS Google
 
-💻 Software and Tools
-Colab Git Jupyter Power BI
+🔧 Software and Tools:
+Power BI Excel Colab Git Jupyter 
 
 <!---
 rodrigolcschulz/rodrigolcschulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
