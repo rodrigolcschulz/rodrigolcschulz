@@ -11,10 +11,10 @@ Python SQL DAX
 NumPy Pandas Scikit Learn Seaborn
 
 🗄️ Databases and Cloud Hosting:
-AWS Google
+AWS Google Cloud
 
 🔧 Software and Tools:
-Power BI Excel Colab Git Jupyter 
+Power BI Excel Colab Jupyter 
 
 <!---
 rodrigolcschulz/rodrigolcschulz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
