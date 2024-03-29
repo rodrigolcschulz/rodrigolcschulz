@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rodrigo Schulz 
-- 🧠 I’m interested in healthcare and machine learning in general 
+- 🧠 I’m interested in data and machine learning in general 
 - 📘 I’m currently learning data science at UFMS and finished at Ebac 
 - 🔬 I’m interested in projects in areas of health, finance, marketing, sales and engineering. 
 - 💼 How to reach me @rodrigolcschulz in instagram
