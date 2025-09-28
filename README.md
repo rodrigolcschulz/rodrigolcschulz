@@ -64,7 +64,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolcschulz&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolcschulz&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/rodrigolcschulz)
+  
 </div>
 
 ## 🔥 GitHub Streak
