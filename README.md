@@ -59,18 +59,6 @@ RAG agent for **Retail Media & E-commerce**, enabling smarter ad insights with L
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolcschulz&layout=compact&hide=jupyter%20notebook,html,json,yaml,csv&theme=tokyonight&langs_count=6)](https://github.com/rodrigolcschulz)
-
-![Rodrigo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigolcschulz&show_icons=true&theme=tokyonight)
-
-</div>
-
----
-
 ## 🔥 GitHub Streak & Trophies
 
 <div align="center">
