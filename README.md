@@ -59,20 +59,6 @@ RAG agent for **Retail Media & E-commerce**, enabling smarter ad insights with L
 
 ---
 
-## 🔥 GitHub Streak & Trophies
-
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigolcschulz&theme=tokyonight" alt="GitHub Streak"/>
-  
-  <br><br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=rodrigolcschulz&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Graph
 
 <div align="center">
