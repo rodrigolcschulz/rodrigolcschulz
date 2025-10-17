@@ -2,9 +2,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="600" alt="Animated Banner"/>
 </div>
 
+# 👋 Hi, I'm Rodrigo Schulz
+
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%26+AI+Data+Engineer;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Data+Engineer)
   
 </div>
 
@@ -12,7 +14,7 @@
 
 - 🧠 Passionate about **Data Science**, **Machine Learning**, and **AI Engineering**
 - 🤖 Currently working with **AI Agents**, **LLMs**, **RAG**, and **MCP (Model Context Protocol)**
-- 🏗️ Building production-ready AI systems using **LangChain**, **OpenAI**, **Anthropic Claude**, and **Google Gemini**
+- 🏗️ Building production-ready AI systems using **LangChain**, **OpenAI**, **Anthropic Claude**
 - ⚙️ Experience in **data pipelines**, **ETL**, and **data orchestration**
 - 💼 Projects in **retail media**, **marketing**, **sales**, and **engineering**
 - 📬 Reach me on Instagram: [@rodrigolcschulz](https://instagram.com/rodrigolcschulz)
@@ -43,13 +45,13 @@ RAG agent for **Retail Media & E-commerce**, enabling smarter ad insights with L
 🐍 Python • 🧾 SQL  
 
 **AI & Frameworks:**  
-🧩 LangChain • 🧠 RAG • 💬 OpenAI • 🤖 Claude • 🔷 Gemini • 🔗 MCP  
+🧩 LangChain • 🧠 RAG • 💬 OpenAI • 🤖 Claude • 🔗 MCP  
 
 **Data & ML:**  
 📊 Pandas • ⚙️ Scikit-learn • 📈 Plotly • 🧮 NumPy  
 
 **Data Engineering:**  
-🗄️ PostgreSQL • 🚀 Supabase • 🔄 Airflow • 🔧 ETL Pipelines  
+🗄️ PostgreSQL • 🔄 Airflow • 🔧 ETL Pipelines • ⚡Spark
 
 **Web & API:**  
 ⚡ FastAPI • 🎨 Streamlit • 🧰 Gradio  
