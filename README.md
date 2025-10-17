@@ -2,8 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="600" alt="Animated Banner"/>
 </div>
 
-# Hi, I'm Rodrigo Schulz
-
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%26+AI+Data+Engineer;)
