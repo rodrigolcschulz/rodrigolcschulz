@@ -28,7 +28,7 @@ Conversational AI for BMW using Model Context Protocol — integrates LLMs and s
 
 ---
 
-### 🍉 [AI Agents RAG Melancia (Conecta Ads)](https://github.com/rodrigolcschulz/ai_agents_rag_melancia)
+### 🍉 [AI Agents RAG Melancia](https://github.com/rodrigolcschulz/ai_agents_rag_melancia)
 RAG agent for **Retail Media & E-commerce**, enabling smarter ad insights with LLMs and vector search.
 
 **Tech Stack:** Python • LangChain • Chroma • FAISS • OpenAI • Anthropic • Gemini • FastAPI • Gradio
