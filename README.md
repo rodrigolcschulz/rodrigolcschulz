@@ -10,7 +10,7 @@
 
 ---
 
-# 👨‍💻 Rodrigo Schulz  
+# 🧪 Rodrigo Schulz  
 ### AI Engineer | LLM Systems | Production AI
 
 AI Engineer focused on building **production-ready LLM systems** for real-world applications.
