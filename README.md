@@ -29,14 +29,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigolcschulz&theme=tokyo-night"/>
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect
