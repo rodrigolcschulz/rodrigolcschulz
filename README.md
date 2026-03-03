@@ -1,3 +1,54 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="600" alt="Animated Banner"/>
+</div>
+
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+LLM+Systems+%7C+Production+AI;RAG+%7C+Agents+%7C+Embeddings+%7C+Microservices)
+
+</div>
+
+---
+
+# 👨‍💻 Rodrigo Schulz  
+### AI Engineer | LLM Systems | Production AI
+
+AI Engineer focused on building **production-ready LLM systems** for real-world applications.
+
+🔹 Strong focus on:
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Agents & tool orchestration
+- 🔎 Embedding-based intent classification
+- ⚙️ AI microservices (FastAPI + Docker)
+- 📊 LLM evaluation, threshold tuning & cosine similarity strategies
+- 🏗 Stateless & scalable AI architectures
+
+> Building reliable, scalable and observable AI systems — not just prompts.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Agents with MCP
+Enterprise-oriented conversational AI integrating structured data with LLMs using Model Context Protocol.
+
+**Highlights**
+- Context orchestration  
+- Tool calling  
+- Structured enterprise integration  
+- Microservice-ready architecture  
+
+---
+
+### 🔎 RAG Agent for Retail Intelligence
+End-to-end Retrieval-Augmented Generation pipeline with vector search and multi-LLM integration.
+
+**Highlights**
+- Hybrid retrieval (semantic + lexical)
+- Confidence scoring & ranking logic
+- FastAPI backend architecture
+- FAISS / Chroma vector store
+
 ---
 
 ## 🧠 Core Stack
@@ -26,6 +77,14 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigolcschulz&theme=tokyo-night"/>
+</div>
 
 ---
 
