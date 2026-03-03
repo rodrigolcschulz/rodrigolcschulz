@@ -29,16 +29,6 @@
 
 ---
 
-## 📊 Most Used Languages
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigolcschulz&show_icons=true&theme=tokyonight)
-
-</div>
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
