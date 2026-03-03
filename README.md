@@ -1,116 +1,48 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="600" alt="Animated Banner"/>
-</div>
+---
+
+## 🧠 Core Stack
+
+### 🚀 AI & LLM
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Anthropic](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Vector%20Search-blue?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-FF4B4B?style=for-the-badge)
+
+---
+
+### 🏗 Backend & Data
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+### 🐳 Infra & Dev
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge)
+
+---
+
+## 📊 Most Used Languages
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+LLM+Systems+%7C+Healthcare+AI;Production-Ready+AI+Architectures;RAG+%7C+Agents+%7C+Embeddings+%7C+MCP)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolcschulz&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-# 👨‍💻 Rodrigo Schulz  
-### AI Engineer | LLM Systems | Data & AI Architecture
-
----
-
-## 🚀 About Me
-
-AI Engineer focused on **LLM-powered systems in production environments**.
-
-Currently working with **Generative AI, Agents, RAG pipelines and Embedding architectures**, designing scalable and reliable AI solutions applied to real-world domains such as healthcare, retail and enterprise systems.
-
-🔹 Strong focus on:
-- LLM orchestration & evaluation  
-- Intent classification & embedding strategies  
-- AI microservices & stateless architectures  
-- Retrieval-Augmented Generation (RAG)  
-- AI system reliability & performance tuning  
-
-🔹 Engineering mindset:
-- Production-first design  
-- Modular architectures  
-- Observability & metrics-driven AI  
-- Clean, testable and scalable code  
-
----
-
-## 🧠 What I Build
-
-- 🤖 AI Agents with tool usage & context control  
-- 🔎 Vector search & semantic retrieval systems  
-- 🧩 Intent matching pipelines (Embedding + lexical strategies)  
-- ⚙️ AI microservices (FastAPI + Docker)  
-- 🧠 Healthcare-oriented AI systems  
-- 📊 Evaluation pipelines for LLM confidence & accuracy  
-
----
-
-## 🛠 Core Stack
-
-### 💻 Languages
-Python • SQL
-
-### 🧠 LLM & AI
-LangChain • RAG • Embeddings • MCP  
-OpenAI • Anthropic • Gemini  
-FAISS • Chroma  
-
-### 🏗 Architecture & Backend
-FastAPI • Docker • REST APIs  
-PostgreSQL • Spark  
-Airflow • ETL Pipelines  
-
-### 📊 ML & Data
-Scikit-learn • Pandas • NumPy  
-Plotly  
-
-### ☁️ Infra
-AWS • GCP  
-
----
-
-## 🚀 Featured Projects
-
-### 🚗 AI Agents MCP
-Conversational AI architecture using Model Context Protocol to integrate LLMs with structured enterprise data.
-
-**Highlights**
-- Context orchestration
-- Structured tool calling
-- Production-ready microservice design
-
-Tech: Python • LangChain • OpenAI • PostgreSQL • Streamlit
-
----
-
-### 🍉 RAG Agent for Retail Media
-End-to-end Retrieval-Augmented Generation system for e-commerce intelligence.
-
-**Highlights**
-- Vector search (FAISS/Chroma)
-- Multi-LLM integration
-- Confidence scoring & ranking logic
-
-Tech: FastAPI • LangChain • OpenAI • Anthropic • Gemini
-
----
-
-## 📈 Engineering Interests
-
-- AI evaluation & benchmarking  
-- Latency optimization in LLM pipelines  
-- Threshold tuning & cosine similarity strategies  
-- Hybrid retrieval (lexical + semantic)  
-- Agent reliability & context window control  
-
----
-
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigolcschulz&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rodrigolcschulz&theme=tokyo-night"/>
 </div>
 
 ---
@@ -119,6 +51,6 @@ Tech: FastAPI • LangChain • OpenAI • Anthropic • Gemini
 
 ### 💬 Let's Connect
 
-[LinkedIn] (coloca aqui)
-  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigolcschulz)
+
 </div>
