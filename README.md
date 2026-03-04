@@ -89,4 +89,9 @@ End-to-end Retrieval-Augmented Generation pipeline with vector search and multi-
 
 </div>
 
-![GitHub Stats](https://github-readme-stats-bay-chi-24.vercel.app/api?username=rodrigolcschulz&show_icons=true&theme=tokyonight)
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats-bay-chi-24.vercel.app/api?username=rodrigolcschulz&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats-bay-chi-24.vercel.app/api/top-langs/?username=rodrigolcschulz&layout=compact&theme=tokyonight"/>
+
+</div>
