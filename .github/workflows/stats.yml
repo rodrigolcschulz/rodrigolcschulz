@@ -1,5 +1,12 @@
 name: Generate GitHub Stats
 
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 on:
   schedule:
     - cron: "0 3 * * *"
