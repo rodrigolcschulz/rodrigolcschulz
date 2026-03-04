@@ -1,1 +1,35 @@
+name: Generate GitHub Stats
 
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        run: |
+          curl -L -o github-stats.svg "https://github-readme-stats.vercel.app/api?username=rodrigolcschulz&show_icons=true&theme=tokyonight" || echo "Failed to fetch stats"
+
+      - name: Check if file exists
+        run: |
+          if [ -f github-stats.svg ]; then
+            echo "Stats file created successfully"
+          else
+            echo "Stats file not created"
+            exit 1
+          fi
+
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add github-stats.svg
+          git commit -m "Update GitHub stats" || echo "No changes to commit"
+          git push
