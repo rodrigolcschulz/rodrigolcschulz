@@ -89,4 +89,4 @@ End-to-end Retrieval-Augmented Generation pipeline with vector search and multi-
 
 </div>
 
-![GitHub Stats](./github-stats.svg)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rodrigolcschulz&show_icons=true&theme=tokyonight)
