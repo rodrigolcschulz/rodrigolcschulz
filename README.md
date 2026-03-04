@@ -88,3 +88,5 @@ End-to-end Retrieval-Augmented Generation pipeline with vector search and multi-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigolcschulz)
 
 </div>
+
+![GitHub Stats](./github-stats.svg)
