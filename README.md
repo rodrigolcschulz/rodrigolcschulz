@@ -20,6 +20,8 @@ AI Engineer building **production-ready LLM systems**.
 - FastAPI microservices
 - Scalable & stateless AI architectures
 
+Knowledge in **Machine Learning** and **Database systems**.
+
 ---
 
 ## Selected Work
@@ -28,13 +30,24 @@ AI Engineer building **production-ready LLM systems**.
 Enterprise conversational systems with tool calling and structured context orchestration.
 
 **RAG Intelligence Pipeline**  
-Hybrid retrieval (semantic + lexical), ranking logic, and vector search architecture.
+Retrieval pipelines with ranking logic and vector search architecture.
 
 ---
 
 ## Stack
 
-LLMs · RAG · LangChain · FastAPI · Docker · PostgreSQL · FAISS · AWS · GCP
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+</p>
 
 ---
 
