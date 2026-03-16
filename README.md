@@ -8,7 +8,7 @@
 
 </div>
 
-AI Engineer building **production-ready LLM systems**.
+AI Engineer building **production-ready AI systems**.
 
 - RAG pipelines  
 - AI Agents & tool orchestration  
