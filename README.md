@@ -4,7 +4,7 @@
 
 <div align="center">
 
-AI Engineer | LLM Systems | Production AI
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer;LLM+Systems;AI+Agents+%26+RAG+Architectures;Production+AI+Systems"/>
 
 </div>
 
