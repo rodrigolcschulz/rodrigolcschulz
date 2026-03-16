@@ -1,26 +1,20 @@
 # Hi, I'm Rodrigo Schulz
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="280"/>
-</div>
-
-<div align="center">
-
-AI Engineer | LLM Systems | Production AI
-
-</div>
-
----
+| | |
+|---|---|
+| <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="260"/> | 
+**AI Engineer | LLM Systems | Production AI**  
 
 AI Engineer building **production-ready LLM systems**.
 
-- RAG pipelines
-- AI Agents & tool orchestration
-- Embedding-based intent systems
-- FastAPI microservices
-- Scalable & stateless AI architectures
+- RAG pipelines  
+- AI Agents & tool orchestration  
+- Embedding-based intent systems  
+- FastAPI microservices  
+- Scalable & stateless AI architectures  
 
 Knowledge in **Machine Learning** and **Database systems**.
+|
 
 ---
 
