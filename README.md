@@ -12,10 +12,10 @@ AI Engineer building **production-ready LLM systems**.
 
 - RAG pipelines  
 - AI Agents & tool orchestration  
-- Embedding-based intent systems  
+- Datascience and Machine Learning
 - FastAPI microservices  
 - Scalable & stateless AI architectures  
-- Machine Learning and Database systems
+- Databases
 
 <br clear="left"/>
 
