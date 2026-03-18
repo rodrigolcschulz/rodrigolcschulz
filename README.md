@@ -11,11 +11,12 @@
 AI Engineer building **production-ready LLM systems**.
 
 - RAG pipelines  
-- AI Agents & tool orchestration  
+- Agents & tool orchestration
 - Datascience and Machine Learning
 - FastAPI microservices  
-- Scalable & stateless AI architectures  
+- Dashboard and Analytics
 - Databases
+
 
 <br clear="left"/>
 
