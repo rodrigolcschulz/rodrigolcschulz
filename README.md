@@ -22,16 +22,6 @@ AI Engineer building **production-ready LLM systems**.
 
 ---
 
-## Selected Work
-
-**AI Agents (MCP-based)**  
-Enterprise conversational systems with tool calling and structured context orchestration.
-
-**RAG Intelligence Pipeline**  
-Retrieval pipelines with ranking logic and vector search architecture.
-
----
-
 ## Stack
 
 <p align="center">
