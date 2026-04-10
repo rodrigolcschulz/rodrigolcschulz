@@ -39,8 +39,3 @@ AI Engineer building **production-ready LLM systems**.
 ---
 
 <div align="center">
-
-<img height="165em" src="https://github-readme-stats-bay-chi-24.vercel.app/api?username=rodrigolcschulz&show_icons=true&theme=tokyonight"/>
-<img height="165em" src="https://github-readme-stats-bay-chi-24.vercel.app/api/top-langs/?username=rodrigolcschulz&layout=compact&theme=tokyonight"/>
-
-</div>
