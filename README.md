@@ -1,5 +1,9 @@
 # Hi, I'm Rodrigo Schulz
 
+AI Engineer focused on **LLM systems, agents, and production architectures**.
+
+I design and build **end-to-end AI systems** — from data pipelines to agent orchestration and real-world integrations.
+
 <img align="left" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="320"/>
 
 <div align="center">
@@ -8,15 +12,13 @@
 
 </div>
 
-AI Engineer building **production-ready LLM systems**.
-
-- RAG pipelines  
-- Agents & tool orchestration
-- Datascience and Machine Learning
-- FastAPI microservices  
-- Dashboard and Analytics
-- Databases
-
+🧠 What I do
+- Design LLM-powered systems (RAG, agents, tool orchestration)
+- Build multi-agent architectures integrated with real products
+- Develop AI services in Python connected to scalable Node.js APIs
+- Implement RAG pipelines with embeddings, retrieval strategies, and memory
+- Create AI-driven workflows for automation, pricing, and scheduling
+- Integrate AI with external channels (APIs, messaging platforms, etc.)
 
 <br clear="left"/>
 
