@@ -17,8 +17,7 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 - Build multi-agent architectures integrated with real products
 - Develop AI services in Python connected to scalable Node.js APIs
 - Implement RAG pipelines with embeddings, retrieval strategies, and memory
-- Create AI-driven workflows for automation, pricing, and scheduling
-- Integrate AI with external channels (APIs, messaging platforms, etc.)
+- Create AI-driven workflows for automation
 
 <br clear="left"/>
 
@@ -47,10 +46,6 @@ I work on real-world AI systems currently in development/production, including:
 - Multi-tenant platforms with domain-specific AI agents
 - Systems that generate structured outputs
 - AI integrated with business logic and databases
-- Architectures combining:
-  Python (AI orchestration)
-  Node.js (business APIs)
-  PostgreSQL (data + embeddings)
-  Tool-based agents interacting with internal APIs (/internal patterns)
+- Distributed architectures
 
 <div align="center">
