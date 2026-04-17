@@ -12,7 +12,6 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 </div>
 
-## 🧠 What I do
 - Design LLM-powered systems (RAG, agents, tool orchestration)
 - Build multi-agent architectures integrated with real products
 - Develop AI services in Python connected to scalable Node.js APIs
@@ -38,7 +37,7 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 ---
 
-## 🧱 Selected Work
+## 🧠 Selected Work
 
 I work on real-world AI systems currently in development/production, including:
 
