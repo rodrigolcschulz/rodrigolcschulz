@@ -21,7 +21,7 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 ---
 
-## Stack
+## 🧪 Stack
 
 <p align="center">
 
