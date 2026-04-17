@@ -17,7 +17,6 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 - Build multi-agent architectures integrated with real products
 - Develop AI services in Python connected to scalable Node.js APIs
 - Implement RAG pipelines with embeddings, retrieval strategies, and memory
-- Create AI-driven workflows for automation
 
 <br clear="left"/>
 
