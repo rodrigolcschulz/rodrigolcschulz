@@ -39,16 +39,6 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 ---
 
-## Work
-
-I work on real-world AI systems currently in development/production, including:
-
-- Domain-specific AI agents
-- NLP and information extraction systems
-- Retrieval systems using embeddings and contextual memory
-- AI integrated with business logic and databases
-- Distributed architectures and scalable AI services
-
 <div align="center">
 
 ### Featured Projects
