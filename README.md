@@ -32,15 +32,14 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=icloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
 
 </p>
 
 ---
 
-## Selected Work
+## Work
 
 I work on real-world AI systems currently in development/production, including:
 
@@ -52,7 +51,11 @@ I work on real-world AI systems currently in development/production, including:
 
 <div align="center">
 
-## Hobbies
+### Featured Projects
+
+#### Schedule & Sales AI
+
+Demonstration of a local AI-powered scheduling and sales assistant.
 
 #### Vornskald
 
