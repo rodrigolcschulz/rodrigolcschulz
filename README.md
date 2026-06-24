@@ -13,9 +13,11 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 </div>
 
 - Design LLM-powered systems (RAG, agents, tool orchestration)
-- Build multi-agent architectures integrated with real products
-- Develop AI services in Python connected to scalable Node.js APIs
-- Implement RAG pipelines with embeddings, retrieval strategies, and memory
+- Build AI applications integrated with enterprise products and business workflows
+- Develop NLP pipelines, embeddings, and semantic retrieval systems
+- Train and evaluate machine learning and language models
+- Develop AI services in Python connected to scalable APIs and databases
+- Design architectures focused on production, observability, and maintainability
 
 <br clear="left"/>
 
@@ -27,11 +29,12 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </p>
 
@@ -41,9 +44,24 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 I work on real-world AI systems currently in development/production, including:
 
-- Multi-tenant platforms with domain-specific AI agents
-- Systems that generate structured outputs
+- Domain-specific AI agents
+- NLP and information extraction systems
+- Retrieval systems using embeddings and contextual memory
 - AI integrated with business logic and databases
-- Distributed architectures
+- Distributed architectures and scalable AI services
 
 <div align="center">
+
+## Hobbies
+
+#### Vornskald
+
+Runic transcription and meaning explorer.
+
+🔗 https://vornskald.vercel.app/
+
+#### TrollSheet
+
+RPG character creation application.
+
+🔗 https://trollsheet.vercel.app/
