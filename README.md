@@ -43,7 +43,7 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 ### Featured Projects
 
-#### Schedule & Sales AI
+#### Schedule AI
 
 Demonstration of a local AI-powered scheduling and sales assistant.
 
