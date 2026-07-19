@@ -4,9 +4,6 @@ AI Engineer focused on **LLM systems, agents, and production architectures**.
 
 I design and build **end-to-end AI systems** — from data pipelines to agent orchestration and real-world integrations.
 
-[<img align="left" src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="320"/>](https://github.com/user-attachments/assets/671606e1-5dfa-4353-bcb7-7db010db8dd1
-)
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI+Engineer;LLM+Systems;AI+Agents+%26+RAG+Architectures;Production+AI+Systems"/>
@@ -48,7 +45,8 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 Demonstration of a local AI-powered scheduling and sales assistant.
 
-[https://github.com/user-attachments/assets/ad1c46b8-4b6d-49ef-9c05-a78dffd28a95](https://github.com/user-attachments/assets/1d8303f6-5cb6-4444-b5ba-3849a673e432)
+[[https://github.com/user-attachments/assets/ad1c46b8-4b6d-49ef-9c05-a78dffd28a95](https://github.com/user-attachments/assets/1d8303f6-5cb6-4444-b5ba-3849a673e432)](https://github.com/user-attachments/assets/671606e1-5dfa-4353-bcb7-7db010db8dd1
+)
 
 #### Vornskald
 
