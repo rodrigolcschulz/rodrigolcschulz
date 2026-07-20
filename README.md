@@ -47,6 +47,12 @@ Demonstration of a local AI-powered scheduling and sales assistant.
 
 [https://github.com/user-attachments/assets/1d8303f6-5cb6-4444-b5ba-3849a673e432](https://github.com/user-attachments/assets/671606e1-5dfa-4353-bcb7-7db010db8dd1)
 
+#### Knowledge Platform
+
+Demonstration of RAG ingestion and answer.
+
+https://github.com/user-attachments/assets/9f5dcbb6-637a-4890-9d17-75c75965336f
+
 #### Vornskald
 
 Runic transcription and meaning explorer.
