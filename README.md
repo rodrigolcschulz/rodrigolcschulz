@@ -45,7 +45,7 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 Demonstration of a local AI-powered scheduling and sales assistant.
 
-[[https://github.com/user-attachments/assets/1d8303f6-5cb6-4444-b5ba-3849a673e432](https://github.com/user-attachments/assets/671606e1-5dfa-4353-bcb7-7db010db8dd1)](https://github.com/user-attachments/assets/f9b60ca2-99e0-4a94-8433-f6ad6bd8e9aa)
+https://github.com/user-attachments/assets/f9b60ca2-99e0-4a94-8433-f6ad6bd8e9aa
 
 #### Knowledge Platform
 
