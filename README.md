@@ -41,6 +41,12 @@ I design and build **end-to-end AI systems** — from data pipelines to agent or
 
 ### Featured Projects
 
+#### Edda Agents
+
+A project focused on demonstrating AI engineering competence (going beyond simply calling an LLM API): agent orchestration, RAG, memory, model routing, observability/tracing, evaluation.
+
+https://github.com/user-attachments/assets/a0ba836a-f128-4905-b1c2-f3774ab14180
+
 #### Schedule AI
 
 Demonstration of a local AI-powered scheduling and sales assistant.
